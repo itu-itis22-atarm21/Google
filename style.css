@@ -1,0 +1,59 @@
+.all{
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    line-height: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.logo  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 23%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  .yazi{
+    margin-bottom: 0%;
+  }
+
+  .searchbar {
+    background-color: #EEEEEE;
+    margin-top: -10px;
+    padding-top: 0;
+  }
+  .sp {
+    margin-bottom: -10;
+  }
+  .container{
+    display: flex;
+    justify-content: 0;
+    height: auto;
+
+  }
+  .left .mid .rigth {
+    flex: 1;
+   
+  }
+  .left{
+    background-color: #7ee5da;
+    width: 35% ;
+    
+  }
+  .mid{
+    background-color: #70ccc2;
+    width: 30% ;
+    
+  }
+  .rigth{
+    background-color:#62b3aa;
+    width: 35% ;
+  }
+  footer{
+    text-align: center;
+    font-size: 0.8em;
+    padding: 10px;
+}
